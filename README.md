@@ -1,6 +1,6 @@
-# Discord-ID to Token
+# Yoyo solo tools
 
 **This Discord tool allows you to get the first part of someone's token trought his ID.**
 
-![Token](https://user-images.githubusercontent.com/81310818/112335524-9b2ba080-8cbc-11eb-9a35-7aca52589c75.PNG)
-> **Terax**
+![Token](https://cdn.discordapp.com/attachments/1123727535465832540/1134297670425518181/image.png)
+> **Yoyo Solo**
